@@ -1,0 +1,5 @@
+{
+    "DISCORD_TOKEN": "your-discord-bot-token-here",
+    "COD_API_KEY": "your-cod-api-key-here",
+    "PREFIX": "!"
+}
