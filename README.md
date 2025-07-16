@@ -2,8 +2,7 @@
 
 This bot fetches Call of Duty ranked play stats and integrates into your Discord server.
 
-## 🚀 Core Files:
-- **bot.py** (Python) / **index.js** (Node.js): Main bot logic.
+- **bot.py** / **index.js** (Node.js): Main bot logic.
 - **cog_stats.py**: Fetches stats for Call of Duty.
 - **api_handler.py**: Communicates with CoD API.
 - **config.json**: Settings and API keys for the bot.
