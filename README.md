@@ -1,4 +1,4 @@
-# CoD Stats Discord Bot 🎮💬
+# CoD Stats Discord Bot 
 
 This bot fetches Call of Duty ranked play stats and integrates into your Discord server.
 
