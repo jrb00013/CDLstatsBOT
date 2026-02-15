@@ -15,3 +15,8 @@ This bot fetches Call of Duty ranked play stats and integrates into your Discord
 ## 📦 Requirements:
 - Python 3.x or Node.js
 - Discord API Key
+
+## Improvements
+- Improved setup documentation
+- Added clearer configuration instructions
+- Enhanced project structure explanation
